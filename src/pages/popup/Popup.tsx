@@ -1,13 +1,11 @@
-import logo from '@assets/img/logo.svg';
 import '@pages/popup/Popup.css';
 
 const Popup = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/pages/popup/Popup.tsx</code> and save to reload.
+          Edit <code>src/pages/popup/Popup.tsx</code> and save to reloasdad.
         </p>
         <a
           className="App-link"
