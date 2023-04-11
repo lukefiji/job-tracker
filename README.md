@@ -15,7 +15,6 @@
 - [Installation](#installation)
   - [Procedures](#procedures)
 - [Screenshots](#screenshots)
-  - [NewTab](#newtab)
   - [Popup](#popup)
 - [Documents](#documents)
 
